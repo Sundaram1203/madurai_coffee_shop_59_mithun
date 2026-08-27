@@ -283,7 +283,7 @@ The project demonstrates practical experience with:
 
 GitHub: https://github.com/Sundaram1203/madurai_coffee_shop_59_mithun
 
-LinkedIn: linkedin.com/in/sundaram-sv-105947224
+LinkedIn: https://linkedin.com/in/sundaram-sv-105947224
 
 ---
 
